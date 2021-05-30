@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="app_disponivel">Saldo disponivel</string>
+    <string name="app_meu_dim_dim">R$ 1.000.000,00</string>
+    <string name="app_saldo_limite">Saldo - limite</string>
+    <string name="app_ver_extrato">Ver extrato</string>
+    <string name="app_pagar_card_basico">Pagar</string>
+    <string name="app_transferir">Transferir</string>
+    <string name="app_recarga">Recarga</string>
+    <string name="app_cartao_final">Cartão Final</string>
+    <string name="app_cartao_final_valor">6666</string>
+</resources>
